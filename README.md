@@ -2,72 +2,102 @@
 
 ### An Integrated Power BI Solution for EPC Project Financial Management
 
-A comprehensive Business Intelligence portfolio project designed to transform project financial data into actionable management insights through interactive dashboards, document-level financial control, aging analysis, and cash flow forecasting.
+**Transforming Project Financial Data into Actionable Management Insights**
+
+The EPC Financial Control Tower is a comprehensive Business Intelligence portfolio project designed to improve financial visibility, monitor document-level financial exposure, analyze overdue obligations, evaluate collection and payment performance, and forecast future cash flow in Engineering, Procurement, and Construction (EPC) projects.
+
+The solution combines Power BI, DAX, Power Query, and data modeling techniques to provide an integrated financial monitoring and decision-support environment.
 
 ---
 
 ## Project Overview
 
-Financial management in Engineering, Procurement, and Construction (EPC) projects involves monitoring complex financial transactions, outstanding invoices, payment obligations, collection performance, and future cash flow expectations.
+Financial management in EPC projects involves monitoring complex financial transactions, outstanding invoices, payment obligations, collection performance, approval workflows, and future cash flow expectations.
 
-The **EPC Financial Control Tower** brings these areas together in a unified Power BI reporting solution, providing executive visibility and supporting financial monitoring and risk identification throughout the project lifecycle.
+The EPC Financial Control Tower brings these areas together in a unified analytical solution, providing executive visibility and supporting financial monitoring, exception identification, and management decision-making.
 
-This project demonstrates the application of Power BI, DAX, Power Query, and data modeling techniques to project financial management and reporting.
+The solution is organized into five interconnected analytical modules.
+
+---
 
 ## Dashboard Modules
 
 ### 1. Executive Control Tower
 
-Provides an executive-level overview of project financial performance, including:
+Provides an executive-level overview of project financial performance.
 
-* Actual net cash flow
+Key capabilities:
+
+* Actual net cash flow monitoring
 * Open receivables and payables
 * Weighted cash flow forecasts
-* Overdue financial exposure
+* Total overdue financial exposure
 * High-risk financial exposure
 * Approval SLA exceptions
 
+[View Executive Control Tower (PDF)](Portfolio/EPC_Financial_Control_Tower_Report.pdf#page=1)
+
 ### 2. Document-Level Financial Exposure & Control
 
-Enables document-level financial monitoring through:
+Enables document-level monitoring of financial obligations and exposure.
 
-* Outstanding invoice balances
-* Financial exposure classification
-* Document workflow status monitoring
-* Settlement and approval tracking
-* Financial risk identification
+Key capabilities:
+
+* Outstanding invoice balance monitoring
+* Document-level financial exposure
+* Risk classification
+* Workflow status monitoring
+* Financial document tracking
+* High-risk document identification
+
+[View Document-Level Financial Control (PDF)](Portfolio/EPC_Financial_Control_Tower_Report.pdf#page=2)
 
 ### 3. Aging & Collection Analysis
 
-Provides visibility into overdue financial obligations through:
+Provides visibility into overdue financial obligations and aging distribution.
+
+Key capabilities:
 
 * Receivables aging analysis
 * Payables aging analysis
 * Overdue exposure by aging bucket
 * 91+ days overdue monitoring
-* Collection and payment risk indicators
+* Receivables and payables overdue ratios
+* Weighted average delay analysis
+
+[View Aging & Collection Analysis (PDF)](Portfolio/EPC_Financial_Control_Tower_Report.pdf#page=3)
 
 ### 4. Collection & Payment Performance
 
-Focuses on counterparty-level financial performance through:
+Evaluates collection performance and supplier payment exposure.
+
+Key capabilities:
 
 * Collection coverage monitoring
 * Supplier payment coverage
 * Top overdue receivables
 * Top overdue suppliers
-* Weighted average payment delay analysis
+* Counterparty-level financial exposure
+* Weighted average overdue days
+
+[View Collection & Payment Performance (PDF)](Portfolio/EPC_Financial_Control_Tower_Report.pdf#page=4)
 
 ### 5. Cash Flow Forecast & Early Warning
 
-Supports forward-looking financial monitoring through:
+Provides forward-looking financial monitoring through weighted cash flow forecasting and risk indicators.
+
+Key capabilities:
 
 * Daily weighted cash inflow forecasts
 * Daily weighted cash outflow forecasts
 * Cumulative net forecast cash flow
+* 30-day and 60-day forecast analysis
 * Approval SLA exception monitoring
 * High-risk financial exposure alerts
 
-**Note:** Cumulative net forecast cash flow represents the accumulated forecast movement, not the actual bank cash balance.
+**Note:** Cumulative net forecast cash flow represents accumulated forecast movement, not the actual bank cash balance.
+
+[View Cash Flow Forecast & Early Warning (PDF)](Portfolio/EPC_Financial_Control_Tower_Report.pdf#page=5)
 
 ---
 
@@ -81,60 +111,51 @@ Supports forward-looking financial monitoring through:
 | Data Modeling      | Structured financial reporting model                  |
 | Microsoft Excel    | Source data preparation                               |
 
+---
+
 ## Key Analytical Capabilities
 
 * Document-level financial exposure monitoring
 * Receivables and payables aging analysis
 * Dynamic financial KPIs
-* Weighted forecast calculations
+* Weighted cash flow forecast calculations
 * Cumulative cash flow analysis
 * Risk classification and exception monitoring
 * Interactive filtering and drill-through analysis
 * Executive-oriented financial reporting
 
-## Project Screenshots
+---
 
-The repository includes visual previews of the five dashboard modules.
+## Project Report
 
-### Executive Control Tower
+The complete five-page Power BI report is available in PDF format.
 
-`Screenshots/01_Executive_Control_Tower.png`
-
-### Document-Level Financial Control
-
-`Screenshots/02_Document_Financial_Control.png`
-
-### Aging & Collection Analysis
-
-`Screenshots/03_Aging_Collection_Analysis.png`
-
-### Collection & Payment Performance
-
-`Screenshots/04_Collection_Payment_Performance.png`
-
-### Cash Flow Forecast & Early Warning
-
-`Screenshots/05_Cash_Flow_Forecast.png`
+**[Download Complete EPC Financial Control Tower Report](Portfolio/EPC_Financial_Control_Tower_Report.pdf)**
 
 ---
 
 ## Data Transparency
 
-This is an independent portfolio project built using synthetic sample data.
+This is an independent portfolio project developed using synthetic sample data.
 
-All financial records, transaction amounts, counterparties, document references, and forecast data were created for demonstration purposes.
+All financial records, transaction amounts, counterparties, document references, workflow statuses, and forecast data were created for demonstration purposes.
 
 The project does not disclose or reproduce confidential employer, client, supplier, or project information.
 
+The financial values presented are illustrative and should not be interpreted as actual project financial results.
+
+---
+
 ## Project Objective
 
-The primary objective is to demonstrate how project financial control expertise can be combined with Business Intelligence tools to improve financial visibility, automate reporting, identify exceptions, and support management decision-making in EPC environments.
+The primary objective is to demonstrate how project financial control expertise can be combined with Business Intelligence technologies to improve financial visibility, structure financial reporting, identify exceptions, and support management decision-making in EPC environments.
 
 ---
 
 ## About the Author
 
 **Amir Moaied**
+
 Senior Project Cost Control Engineer | Power BI & Financial Analysis
 
 Professional interests:
@@ -145,6 +166,7 @@ Professional interests:
 * Power BI & DAX
 * Financial Reporting Automation
 * Cash Flow Analysis and Forecasting
+* Management Reporting and Data Visualization
 
 **LinkedIn:** [Amir Moaied](https://www.linkedin.com/in/moaied-amir/)
 
