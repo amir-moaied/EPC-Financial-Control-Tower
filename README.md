@@ -46,7 +46,7 @@ An executive overview of EPC project financial performance and risk, bringing to
 - Approval SLA breach value
 - Outstanding exposure by Engineering, Procurement, and Construction work packages
 
-[View Executive Control Tower (PDF)](Screenshots/Executive_Control_Tower.pdf)
+[![Power BI Executive Control Tower dashboard for EPC financial management](Screenshots/Executive_Control_Tower.png)](Screenshots/Executive_Control_Tower.pdf)
 
 ### 2. Document-Level Financial Exposure & Control
 
@@ -61,7 +61,7 @@ A document-level financial control view for monitoring invoice values, outstandi
 - Document workflow status distribution
 - Financial document register with due date, invoice value, open balance, days overdue, risk level, and workflow status
 
-[View Document-Level Financial Control (PDF)](Screenshots/Document_Level_Financial_Control.pdf)
+[![Document-level financial exposure and control dashboard in Power BI](Screenshots/Document_Level_Financial_Control.png)](Screenshots/Document_Level_Financial_Control.pdf)
 
 ### 3. Aging & Collection Analysis
 
@@ -75,7 +75,7 @@ An aging analysis of employer receivables and supplier payables, designed to hig
 - Receivables and payables overdue percentages
 - 91+ day overdue balances
 
-[View Aging & Collection Analysis (PDF)](Screenshots/Aging_Collection_Analysis.pdf)
+[![Power BI receivables and payables aging and collection analysis dashboard](Screenshots/Aging_Collection_Analysis.png)](Screenshots/Aging_Collection_Analysis.pdf)
 
 ### 4. Collection & Payment Performance
 
@@ -90,7 +90,7 @@ A counterparty-focused view of employer collection performance and supplier paym
 - Top 10 suppliers by overdue payables
 - Counterparty exposure, days past due, and weighted average overdue days
 
-[View Collection & Payment Performance (PDF)](Screenshots/Collection_Payment_Performance.pdf)
+[![Collection and supplier payment performance dashboard in Power BI](Screenshots/Collection_Payment_Performance.png)](Screenshots/Collection_Payment_Performance.pdf)
 
 ### 5. Cash Flow Forecast & Early Warning
 
@@ -107,7 +107,7 @@ A forward-looking EPC project cash flow monitoring view combining weighted expec
 
 **Forecast interpretation:** Cumulative net weighted forecast cash flow represents accumulated forecast movement over the selected horizon. It is not the actual bank cash balance.
 
-[View Cash Flow Forecast & Early Warning (PDF)](Screenshots/Cash_Flow_Forecast_Early_Warning.pdf)
+[![EPC cash flow forecast and early warning dashboard in Power BI](Screenshots/Cash_Flow_Forecast_Early_Warning.png)](Screenshots/Cash_Flow_Forecast_Early_Warning.pdf)
 
 ---
 
