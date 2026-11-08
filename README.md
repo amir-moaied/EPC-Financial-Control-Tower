@@ -35,7 +35,7 @@ Key capabilities:
 * High-risk financial exposure
 * Approval SLA exceptions
 
-[View Executive Control Tower (PDF)](Portfolio/EPC_Financial_Control_Tower_Report.pdf#page=1)
+[View Executive Control Tower (PDF)](Screenshots/Executive_Control_Tower.pdf)
 
 ### 2. Document-Level Financial Exposure & Control
 
@@ -50,7 +50,7 @@ Key capabilities:
 * Financial document tracking
 * High-risk document identification
 
-[View Document-Level Financial Control (PDF)](Portfolio/EPC_Financial_Control_Tower_Report.pdf#page=2)
+[View Document-Level Financial Control (PDF)](Screenshots/Document_Level_Financial_Control.pdf)
 
 ### 3. Aging & Collection Analysis
 
@@ -65,7 +65,7 @@ Key capabilities:
 * Receivables and payables overdue ratios
 * Weighted average delay analysis
 
-[View Aging & Collection Analysis (PDF)](Portfolio/EPC_Financial_Control_Tower_Report.pdf#page=3)
+[View Aging & Collection Analysis (PDF)](Screenshots/Aging_Collection_Analysis.pdf)
 
 ### 4. Collection & Payment Performance
 
@@ -80,7 +80,7 @@ Key capabilities:
 * Counterparty-level financial exposure
 * Weighted average overdue days
 
-[View Collection & Payment Performance (PDF)](Portfolio/EPC_Financial_Control_Tower_Report.pdf#page=4)
+[View Collection & Payment Performance (PDF)](Screenshots/Collection_Payment_Performance.pdf)
 
 ### 5. Cash Flow Forecast & Early Warning
 
@@ -97,7 +97,7 @@ Key capabilities:
 
 **Note:** Cumulative net forecast cash flow represents accumulated forecast movement, not the actual bank cash balance.
 
-[View Cash Flow Forecast & Early Warning (PDF)](Portfolio/EPC_Financial_Control_Tower_Report.pdf#page=5)
+[View Cash Flow Forecast & Early Warning (PDF)](Screenshots/Cash_Flow_Forecast_Early_Warning.pdf)
 
 ---
 
