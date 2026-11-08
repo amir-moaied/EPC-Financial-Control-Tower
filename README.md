@@ -130,8 +130,7 @@ Key capabilities:
 
 The complete five-page Power BI report is available in PDF format.
 
-**[Download Complete EPC Financial Control Tower Report](Portfolio/EPC_Financial_Control_Tower_Report.pdf)**
-
+[Download Complete EPC Financial Control Tower Report](https://raw.githubusercontent.com/amir-moaied/EPC-Financial-Control-Tower/main/Portfolio/EPC_Financial_Control_Tower_Report.pdf)
 ---
 
 ## Data Transparency
