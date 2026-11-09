@@ -125,7 +125,13 @@ The following values are taken from the illustrative report snapshot dated **29 
 | Net weighted forecast cash flow – 30 days | €0.61M |
 | Net weighted forecast cash flow – 60 days | €0.93M |
 
----
+## Interactive Power BI Report
+
+Explore the interactive Power BI Desktop report behind the EPC Financial Control Tower.
+
+[Download EPC Financial Control Tower – Power BI Report (.pbix)](PowerBI/EPC_Financial_Control_Tower.pbix)
+
+**Requirement:** Microsoft Power BI Desktop.
 
 ## Technical Stack
 
