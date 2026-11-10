@@ -1,5 +1,11 @@
 # EPC Financial Control Tower | Power BI Dashboard for EPC Project Financial Management
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Dashboard" />
+  <img src="https://img.shields.io/badge/DAX-Financial%20Analytics-4472C4?style=for-the-badge" alt="DAX Financial Analytics" />
+  <img src="https://img.shields.io/badge/Power%20Query-Data%20Transformation-217346?style=for-the-badge" alt="Power Query Data Transformation" />
+  <img src="https://img.shields.io/badge/EPC-Project%20Controls-34495E?style=for-the-badge" alt="EPC Project Controls" />
+  <img src="https://img.shields.io/badge/Portfolio-Professional%20Project-8E44AD?style=for-the-badge" alt="Professional Portfolio Project" />
+</p>
 **An integrated Power BI portfolio case study for project financial control, document-level exposure monitoring, receivables and payables analysis, collection performance, and cash flow forecasting in Engineering, Procurement, and Construction (EPC) projects.**
 
 This project demonstrates how **Microsoft Power BI, DAX, Power Query, and data modeling** can bring key EPC project finance indicators into a unified management reporting and decision-support environment.
